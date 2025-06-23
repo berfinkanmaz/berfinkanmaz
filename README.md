@@ -16,11 +16,15 @@
 
 ---
 
-## 💻 Meslek / Mevcut Rol
+<details>
+  <summary><strong>💻 Meslek / Mevcut Rol</strong></summary>
 
 - 🎓 Bilgisayar Programlama mezunu  
 - 🚀 Junior Python Geliştiricisi ve Veri Bilimi Tutkunu  
 - 🧠 Şu anda Makine Öğrenimi ve MLOps becerilerimi geliştiriyorum
+
+</details>
+
 
 ---
 
@@ -61,46 +65,40 @@
 
           
 ---
-## 🌟 Gurur Duyduğum Projeler
-
 <details>
-  <summary>🎮 <strong>2D Unity Oyunu</strong></summary>
-  <ul>
-    <li>Puanlama özelliğine sahip mobil uyumlu 2D oyun</li>
-  </ul>
-</details>
+  <summary><strong>🌟 Gurur Duyduğum Projeler</strong></summary>
 
-<details>
-  <summary>🐼 <strong>3D Web Site Tasarım Yapımı</strong></summary>
-  <ul>
-    <li>Modern ve etkileşimli bir 3D web sitesi</li>
-  </ul>
-</details>
+- 🎮 **2D Unity Oyunu:**  
+  Puanlama özelliğine sahip mobil uyumlu 2D oyun  
 
-<details>
-  <summary>📊 <strong>CountryHits Veri Analizi</strong></summary>
-  <ul>
-    <li>Gerçek dünyadan bir CSV veri kümesiyle yapılan derinlemesine veri keşfi ve görselleştirme</li>
-  </ul>
-</details>
+- 🐼 **3D Web Site Tasarım Yapımı:**  
+  Modern ve etkileşimli bir 3D web sitesi  
 
-<details>
-  <summary>🤖 <strong>Selenium ile Instagram Botu</strong></summary>
-  <ul>
-    <li>Oturum açma ve etkileşimleri otomatikleştiren, güçlü hata işleme özellikli bot</li>
-  </ul>
-</details>
+- 📊 **CountryHits Veri Analizi:**  
+  Gerçek dünyadan bir CSV veri kümesiyle yapılan derinlemesine veri keşfi ve görselleştirme  
+
+- 🤖 **Selenium ile Instagram Botu:**  
+  Oturum açma ve etkileşimleri otomatikleştiren, güçlü hata işleme özellikli bot  
 
 > Henüz tüm projeler kamuoyuyla paylaşılmadı, ancak bizi izlemeye devam edin; yakında birçoğu yayınlanacak!
 
+</details>
 
-## 🧬 Hakkımda Biraz Bilgi
+
+
+
+
+<details open>
+  <summary><strong>🧬 Hakkımda Biraz Bilgi</strong></summary>
 
 Gerçek dünya problemlerini kodla çözmeyi seven, özellikle veri ve etkileşimli tasarıma ilgi duyan meraklı bir ruhum.  
 Yaratıcılığın, mantığın ve ısrarcılığın harika bir geliştiriciyi oluşturduğuna inanıyorum ve üçünü de geliştirmeye devam ediyorum.
 
 > “Disiplin, şu anda istediğiniz şey ile en çok istediğiniz şey arasında seçim yapmaktır.”  
 > — Abraham Lincoln
+
+</details>
+
 
 ---
 
