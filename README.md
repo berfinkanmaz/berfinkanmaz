@@ -60,17 +60,38 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40" alt="blender"/>
           
 ---
-
 ## 🌟 Gurur Duyduğum Projeler
 
-- 🎮 **2D Unity Oyunu:** Puanlama özelliğine sahip mobil uyumlu 2D oyun  
-- 🐼 **3D Web Site Tasarım Yapımı:** Modern ve etkileşimli bir 3D web sitesi  
-- 📊 **CountryHits Veri Analizi:** Gerçek dünyadan bir CSV veri kümesiyle yapılan derinlemesine veri keşfi ve görselleştirme  
-- 🤖 **Selenium ile Instagram Botu:** Oturum açma ve etkileşimleri otomatikleştiren, güçlü hata işleme özellikli bot
+<details>
+  <summary>🎮 <strong>2D Unity Oyunu</strong></summary>
+  <ul>
+    <li>Puanlama özelliğine sahip mobil uyumlu 2D oyun</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🐼 <strong>3D Web Site Tasarım Yapımı</strong></summary>
+  <ul>
+    <li>Modern ve etkileşimli bir 3D web sitesi</li>
+  </ul>
+</details>
+
+<details>
+  <summary>📊 <strong>CountryHits Veri Analizi</strong></summary>
+  <ul>
+    <li>Gerçek dünyadan bir CSV veri kümesiyle yapılan derinlemesine veri keşfi ve görselleştirme</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🤖 <strong>Selenium ile Instagram Botu</strong></summary>
+  <ul>
+    <li>Oturum açma ve etkileşimleri otomatikleştiren, güçlü hata işleme özellikli bot</li>
+  </ul>
+</details>
 
 > Henüz tüm projeler kamuoyuyla paylaşılmadı, ancak bizi izlemeye devam edin; yakında birçoğu yayınlanacak!
 
----
 
 ## 🧬 Hakkımda Biraz Bilgi
 
