@@ -10,9 +10,7 @@
 <!-- DALGA SVG ANİMASYONU -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BA68C8&height=90&section=header"/>
 
-# 👩‍💻 Berfin Kanmaz
-
-🇹🇷 Türkiye'den tutkulu bir **Web Developer**, **Python Geliştiricisi** ve **Veri Bilimcisi** adayıyım.
+👩‍💻 🇹🇷 Türkiye'den tutkulu bir **Web Developer**, **Python Geliştiricisi** ve **Veri Bilimcisi** adayıyım.
 
 ---
 
